@@ -1,2 +1,2 @@
-# Meus projetos da UFC
-_Projetos e atividades feitas durante a graduação_
+# Maria Bianca 
+_Projetos pessoais realizados durante meu processo de aprendizagem_

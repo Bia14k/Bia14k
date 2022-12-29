@@ -32,6 +32,7 @@
   <a href="mailto:maria.bianca.mb0@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.notion.so/Getting-Started-20f60cb50bcf4215a2680f2b32c0cb85" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maria-bianca-sousa-56b164224/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.tumblr.com/hexastarcode" target="_blank"><img src="https://img.shields.io/badge/Tumblr-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white" target="_blank"></a>
 </div>
   
  
